@@ -35,7 +35,7 @@ streamlit run app.py
 - Mighty Samson (GitHub & Setup)
 - @DangouleP
 - @MariiaChepra
-- 4th teammate (coming soon)
+- @milis37
 
 ## 📌 Future Features
 
