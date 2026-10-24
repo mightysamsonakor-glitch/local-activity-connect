@@ -22,7 +22,7 @@ Users can post an activity (e.g., "Play football at 6pm") and others nearby can 
 1. Install dependencies:
 
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 
 2. Run the app:
